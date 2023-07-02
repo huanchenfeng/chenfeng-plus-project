@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/chenfeng-plus-base/chenfeng-plus-base.iml" filepath="$PROJECT_DIR$/chenfeng-plus-base/chenfeng-plus-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chenfeng-plus-content/chenfeng-plus-content.iml" filepath="$PROJECT_DIR$/chenfeng-plus-content/chenfeng-plus-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chenfeng-plus-content/chenfeng-plus-content-api/chenfeng-plus-content-api.iml" filepath="$PROJECT_DIR$/chenfeng-plus-content/chenfeng-plus-content-api/chenfeng-plus-content-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chenfeng-plus-content/chenfeng-plus-content-model/chenfeng-plus-content-model.iml" filepath="$PROJECT_DIR$/chenfeng-plus-content/chenfeng-plus-content-model/chenfeng-plus-content-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chenfeng-plus-content/chenfeng-plus-content-service/chenfeng-plus-content-service.iml" filepath="$PROJECT_DIR$/chenfeng-plus-content/chenfeng-plus-content-service/chenfeng-plus-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chenfeng-plus-generator/chenfeng-plus-generator.iml" filepath="$PROJECT_DIR$/chenfeng-plus-generator/chenfeng-plus-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chenfeng-plus-parent/chenfeng-plus-parent.iml" filepath="$PROJECT_DIR$/chenfeng-plus-parent/chenfeng-plus-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/chenfeng-plus-project.iml" filepath="$PROJECT_DIR$/chenfeng-plus-project.iml" />
     </modules>
   </component>
