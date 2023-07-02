@@ -10,7 +10,7 @@ https://maven.apache.org/xsd/maven-4.0.0.xsd">
         <version>0.0.1-SNAPSHOT</version>
         <relativePath>../chenfeng-plus-parent</relativePath>
     </parent>
-    <artifactId>xuecheng-plus-base</artifactId>
+    <artifactId>chenfeng-plus-base</artifactId>
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
