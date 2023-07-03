@@ -1,5 +1,6 @@
 package com.chenfeng.base.model;
 
+import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 import lombok.ToString;
 import lombok.extern.java.Log;
@@ -13,8 +14,10 @@ import lombok.extern.java.Log;
 @ToString
 public class PageParams {
     //当前页码
+    @ApiModelProperty("页码")
     private Long pageNo = 1L;
     //每页记录数默认值
+    @ApiModelProperty("每页记录数")
     private Long pageSize =10L;
     public PageParams(){
     }
