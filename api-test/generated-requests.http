@@ -1,0 +1,40 @@
+###
+GET /book/allBook
+
+###
+POST {{content_host}}/content/course/list?pageNo=1&pageSize=2
+Content-Type: application/json
+
+{
+"auditStatus": "202004",
+  "courseName": "java",
+  "publishStatus": ""
+}
+
+<> 2023-07-03T220203.200.json
+<> 2023-07-03T215645.404.html
+
+### 创建课程
+POST {{content_host}}/content/course
+Content-Type: application/json
+
+{
+  "charge": "201000",
+  "price": 0,
+  "originalPrice":0,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程 103",
+  "pic": "",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2023-07-05T202034.404.json
