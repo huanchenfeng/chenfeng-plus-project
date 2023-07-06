@@ -13,6 +13,11 @@ https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <dependencies>
         <dependency>
             <groupId>com.chenfeng</groupId>
+            <artifactId>chenfeng-plus-base</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.chenfeng</groupId>
             <artifactId>chenfeng-plus-content-service</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
