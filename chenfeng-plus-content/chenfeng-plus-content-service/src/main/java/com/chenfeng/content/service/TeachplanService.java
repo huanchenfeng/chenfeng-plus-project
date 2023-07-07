@@ -15,4 +15,7 @@ public interface TeachplanService {
      */
     public List<TeachplanDto> findTeachplanTree(long courseId);
     public void saveTeachplan(SaveTeachplanDto teachplanDto);
+    public void deleteTeachplan(long id);
+    public void teachplanMoveup(long id);
+    public void teachableMovedown(long id);
 }
